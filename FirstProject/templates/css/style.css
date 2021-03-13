@@ -1,9 +1,0 @@
-@font-face {
-    font-family: "probert";
-    src: url(./fonts/Probert-FontZillion/Fonts/probert\ black\ italic.otf);
-    font-style: normal;
-}
-
-.headingfonts {
-    font-family: probert;
-}
