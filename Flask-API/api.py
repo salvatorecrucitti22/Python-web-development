@@ -1,5 +1,5 @@
 import flask
-from flask import request, jsonify
+from flask import Flask, render_template, Response, request, redirect, url_for
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
@@ -20,7 +20,7 @@ detail = [
 
 @app.route('/', methods=['GET'])
 def home():
-    return '''<h1>API Work Home</h1>'''
+    return render_template('index.html');
 
 
 # A route to return all of the available entries in our catalog.
