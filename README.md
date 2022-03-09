@@ -10,4 +10,4 @@ Repository contain web development work with the help of python programming.
 
 # Projects
 
-## [Student Portal］（https://github.com/Muhammad-Usama-07/Web-Development-WIth-Python/tree/master/StudentPortal）
+## [Student Portal]（https://github.com/Muhammad-Usama-07/Web-Development-WIth-Python/tree/master/StudentPortal）
